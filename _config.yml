@@ -1,17 +1,10 @@
 title: Victor Polozov
-description: me
-baseurl: "" # the subpath of your site, e.g. /blog
+description: Software Engineer and Technology Professional | Personal Portfolio & CV | Exploring ideas at the intersection of technology and innovation
+baseurl: ""
 url: "https://vpolozov.github.io" 
 
 # Theme settings
 remote_theme: piazzai/hacked-jekyll
-
-# Social profiles
-#github_username: vpolozov
-#twitter_username: x
-linkedin_username: victor.polozov
-instagram_username: le_bul_de_sier
-email: victor.polozov@gmail.com
 
 exclude:
   - LICENSE
@@ -19,9 +12,16 @@ exclude:
   - vendor/
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
 
 sass:
   sourcemap: never
-  
+
+# **Forest Theme**
+color_bg: gray-9
+color_punct: green-4
+color_key: green-8
+color_value: teal-6
+color_hover: green-3
