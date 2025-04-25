@@ -1,0 +1,43 @@
+- key: Name
+  value: Victor Polozov
+
+- key: Description
+  value:
+    - Backend Team Tech Lead
+    - DevOps, Automation and Security
+    - Mobile Client Team Lead    
+  typed: true
+
+- key: CV
+  value: 
+    - key: one page
+      value: cv_1p.pdf
+      url: /cv/Victor_Polozov_CV_2025_1p.pdf
+    - key: one and a half
+      value: cv_1hp.pdf
+      url: /cv/Victor_Polozov_CV_2025_1hp.pdf
+    - key: three pages
+      value: cv_3p.pdf
+      url: /cv/Victor_Polozov_CV_2025_3p.pdf
+
+- key: Projects
+  value:
+    - value: MedM Inc
+      url: http://www.medm.com
+
+- key: Social
+  value:
+    - value: LinkedIn
+      url: https://linkedin.com/in/victor-polozov
+    - value: GitHub
+      url: https://github.com/vpolozov
+    - value: Instagram
+      url: https://instagram.com/le_bul_de_sier
+
+- key: Contact
+  value:
+    - key: Email
+      value: victor.polozov@gmail.com
+      url: "mailto:victor.polozov@gmail.com"
+    - key: Location
+      value: Israel

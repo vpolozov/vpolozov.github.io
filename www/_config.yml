@@ -1,0 +1,27 @@
+title: Victor Polozov
+description: me
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vpolozov.github.io" 
+
+# Theme settings
+remote_theme: piazzai/hacked-jekyll
+
+# Social profiles
+#github_username: vpolozov
+#twitter_username: x
+linkedin_username: victor.polozov
+instagram_username: le_bul_de_sier
+email: victor.polozov@gmail.com
+
+exclude:
+  - LICENSE
+  - README.md
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
