@@ -10,15 +10,15 @@
 
 - key: CV
   value: 
-    - key: one page
+    - key: _default
+      value: cv.pdf
+      url: "/cv/Victor Polozov CV 2025 Senior 1hp.pdf"
+    - key: less_details
       value: cv_1p.pdf
       url: /cv/Victor_Polozov_CV_2025_1p.pdf
-    - key: one and a half
-      value: cv_1hp.pdf
-      url: /cv/Victor_Polozov_CV_2025_1hp.pdf
-    - key: three pages
+    - key: more_details
       value: cv_3p.pdf
-      url: /cv/Victor_Polozov_CV_2025_3p.pdf
+      url: "/cv/Victor Polozov CV 2025 Senior.pdf"
 
 - key: Projects
   value:
