@@ -1,25 +1,31 @@
 - key: Name
   value: Victor Polozov
 
-- key: Description
+- key: Role
   value:
-    - Backend Team Tech Lead
-    - DevOps, Automation and Security
-    - Mobile Client Team Lead
-    - "Ruby/Rails, C/C++, C#/F#, Java/Kotlin, sh/cmd, etc."
+    - Lead Software Engineer
+    - Backend & DevOps Expert
+    - Mobile Platforms Builder
+    - Compiler Enthusiast
   typed: true
+
+- key: Description
+  value: #"25+ years of delivering production-grade software across healthcare, education, and compiler technology."
+    - 25+ years of delivering production-grade software
+    - Focused on healthcare, education, and compiler technology
+  #value: "From compilers to healthcare platforms — reliable software, end to end."
 
 - key: CV
   value: 
     - key: _default
       value: cv.pdf
-      url: "/cv/Victor Polozov CV 2025 Senior 1hp.pdf"
+      url: "/cv/Victor_Polozov_CV_2025_1hp.pdf"
     - key: less_details
       value: cv_1p.pdf
       url: /cv/Victor_Polozov_CV_2025_1p.pdf
     - key: more_details
       value: cv_3p.pdf
-      url: "/cv/Victor Polozov CV 2025 Senior.pdf"
+      url: "/cv/Victor_Polozov_CV_2025_2p.pdf"
 
 - key: Projects
   value:
