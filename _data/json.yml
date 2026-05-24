@@ -4,28 +4,32 @@
 - key: Role
   value:
     - Lead Software Engineer
-    - Backend & DevOps Expert
-    - Mobile Platforms Builder
-    - Compiler Enthusiast
+    - Backend & Platform Engineer
+    - Automation & CI/CD
+    - Mobile & C++ Systems
+    - Compiler Engineering
   typed: true
 
 - key: Description
-  value: #"25+ years of delivering production-grade software across healthcare, education, and compiler technology."
-    - 25+ years of delivering production-grade software
-    - Focused on healthcare, education, and compiler technology
-  #value: "From compilers to healthcare platforms — reliable software, end to end."
+  value:
+    - 25+ years building production-grade software across healthcare, backend, mobile, automation, and compiler systems
+    - Hands-on technical lead focused on reliable platforms, internal tools, CI/CD, and pragmatic engineering
+
+  # or:
+  #  - From compilers to healthcare platforms: reliable software, end to end
+  #  - 25+ years across backend, mobile, automation, CI/CD, and production infrastructure
 
 - key: CV
   value: 
     - key: _default
-      value: cv.pdf
-      url: "/cv/Victor_Polozov_CV_2025_1hp.pdf"
+      value: Victor_Polozov_CV_1_5p.pdf
+      url: /cv/Victor_Polozov_CV_1_5p.pdf
     - key: less_details
-      value: cv_1p.pdf
-      url: /cv/Victor_Polozov_CV_2025_1p.pdf
+      value: Victor_Polozov_CV_1p.pdf
+      url: /cv/Victor_Polozov_CV_1p.pdf
     - key: more_details
-      value: cv_3p.pdf
-      url: "/cv/Victor_Polozov_CV_2025_2p.pdf"
+      value: Victor_Polozov_CV_2p.pdf
+      url: /cv/Victor_Polozov_CV_2p.pdf
 
 - key: Projects
   value:
